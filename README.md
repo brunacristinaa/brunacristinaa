@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a> -->
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/brunacristinaa">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
